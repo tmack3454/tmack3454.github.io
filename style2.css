@@ -1,0 +1,41 @@
+h1{
+	color: red;
+
+}
+ h2{
+	color: red;
+	background-color: rgba(255, 255, 255, 0.5);
+	border: 5px dashed black;
+	font-size: 200%;
+	text-align: center;
+
+}
+img{
+	float:right;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+	color: red;
+}
+p {
+	color: blue;
+	font-size: 100%;
+	border: 5px dashed black;
+	background: rgba(255, 255, 255, 1);
+	font-family: 'Lobster', cursive;
+	line-height: 20px;
+	
+
+}
+
+body{
+	background: url(https://images.alphacoders.com/224/224801.jpg);
+	background-size: cover;
+}
+
+li{
+	display:block;
+	font-size: 180%
+}
